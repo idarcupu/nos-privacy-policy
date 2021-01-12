@@ -1,0 +1,127 @@
+NOS Privacy Police
+Kebijakan Privasi NOS adalah penjelasan terkait dengan data dan informasi pribadi Pengguna NOS, meliputi:
+
+Hukum dan Peraturan yang berlaku;
+Perolehan dan Perlindungan Data;
+Penggunaan, Penyimpanan, Pemanfaatan, dan Pengolahan Data;
+Penghapusan Data;
+Pembatasan Tanggung Jawab NOS;
+Perubahan atas Kebijakan Privasi;
+Cookies; dan
+Kontak NOS.
+
+NOS dari waktu ke waktu berhak memperbaharui Kebijakan Privasi ini agar tetap relevan dan terkini dengan teknologi yang berubah, hukum yang berlaku, praktik bisnis NOS yang terus berkembang dan kebutuhan pengguna NOS. Jika ada perubahan yang dibuat pada Kebijakan Privasi ini, NOS akan memberikan keterangan “Tanggal Pengkinian Terakhir”. NOS mengimbau kepada Pengguna NOS untuk secara berkala meninjau Kebijakan Privasi ini agar tetap mendapat informasi tentang bagaimana NOS mengelola data dan informasi pribadi Anda. Dengan menggunakan Layanan, Pengguna dianggap memberikan persetujuan eksplisit atas Kebijakan Privasi dan dengan terus menggunakan Layanan setelah Kebijakan Privasi, Pengguna dianggap telah menyetujui Kebijakan Privasi yang diperbarui.
+
+HUKUM DAN PERATURAN YANG BERLAKU
+NOS tunduk terhadap segala peraturan perundang-undangan dan kebijakan pemerintah Republik Indonesia yang berlaku, termasuk yang mengatur tentang informasi dan transaksi elektronik, penyelenggaraan sistem elektronik, dan perlindungan data pribadi Pengguna; termasuk segala peraturan pelaksana dan peraturan perubahan dari peraturan-peraturan tersebut yang mengatur dan melindungi penggunaan data dan informasi penting para Pengguna.
+
+PEROLEHAN DAN PERLINDUNGAN DATA
+
+NOS berhak meminta data dan informasi Pengguna, antara lain sebagai berikut:
+a. Informasi terkait akun NOS
+(i) Nama
+(ii) Username
+(iii) E-mail
+(iv) Nomor Telefon
+(v) Alamat dan/atau lokasi
+(vi) Foto KTP dan Foto Diri (Selfie)
+(vii) Informasi Transaksi, Keuangan, dan/atau Perbankan
+
+b. Perilaku Pengguna di NOS dan/atau selama menggunakan Layanan
+Informasi pilihan produk, fitur, dan layanan
+(i) Informasi preferensi dan minat Pengguna
+(ii) Informasi pengalaman Pengguna
+(iii) Informasi foto dan media pada perangkat Pengguna
+(iv) Informasi scanning QR Code
+(vi) Informasi hasil survei yang dikirimkan oleh NOS atau atas nama NOS
+(vii) Rekam jejak Pengguna (log) yang meliputi namun tidak terbatas pada alamat IP perangkat, tanggal, dan waktu akses, fitur aplikasi, lamaan website yang dilihat, proses kerja aplikasi dan aktivitas sistem lainnya, jenis web browser, dan/atau situs atau situs layanan dari pihak ketiga yang digunakan sebelum berinteraksi dengan situs
+(viii) Informasi lain Pengguna yang meliputi namun tidak terbatas pada aktivitas pendaftaran, login, transaksi, dan lain - lain
+
+d. NOS dapat bekerja sama dengan perusahaan dan pihak ketiga lainnya yang memfasilitasi atau memberikan bantuan dalam pengembangan aplikasi dan layanan-layanan tertentu untuk dan/atau atas nama NOS, meliputi:
+(i) memberikan bantuan Pengguna;
+(ii) memberikan informasi geo-location;
+(iii) melaksanakan layanan-layanan terkait dengan Aplikasi (termasuk namun tidak terbatas pada layanan pemeliharaan, pengelolaan database, analisis dan penyempurnaan fitur-fitur Aplikasi;
+(iv) membantu NOS dalam menganalisa bagaimana Aplikasi dan Layanan digunakan serta bagaimana pengembangannya; atau
+(v) untuk membantu penasihat profesional dan auditor eksternal NOS, termasuk penasihat hukum, penasihat keuangan, dan konsultan-konsultan. Para pihak ketiga ini hanya memiliki akses atas Informasi Pribadi Pengguna untuk melakukan tugas-tugas tersebut untuk dan/atau atas nama NOS dan secara kontraktual terikat untuk tidak mengungkapkan atau menggunakan Informasi Pribadi tersebut untuk tujuan lain apapun;
+
+e. Dalam pengungkapan informasi, NOS dapat menginformasikan sebagian informasi pribadi Pengguna sehingga informasi tersebut menjadi informasi yang tidak dapat mengidentifikasi Pengguna secara keseluruhan (data agregat/data anonim) yang ditujukan untuk pihak ketiga yang digunakan untuk pengembangan Aplikasi, pengelolaan database, analisa atau peningkatan layanan, promosi dan periklanan;
+
+f. NOS juga dapat mengkombinasikan Informasi Pribadi Pengguna dengan informasi-informasi lain sedemikan rupa sehingga informasi tersebut tidak lagi ter-asosiasi dengan Pengguna, kemudian mengungkapkan informasi yang telah dikombinasikan tersebut kepada pihak ketiga, untuk tujuan-tujuan seperti pada poin e;
+
+g. NOS juga dapat mengkombinasikan Informasi Pribadi Pengguna dengan informasi-informasi lain sedemikan rupa sehingga informasi tersebut tidak lagi ter-asosiasi dengan Pengguna, kemudian mengungkapkan informasi yang telah dikombinasikan tersebut kepada pihak ketiga, untuk tujuan-tujuan seperti pada poin e;
+
+h. NOS dapat mengungkapan informasi Pengguna kepada anak perusahaan, afiliasi, partner, mitra, dan vendor NOS untuk membantu memberikan layanan atau pengelolaan data;
+
+i. dalam keadaan darurat yang mengancam kehidupan, kesehatan atau keselamatan seseorang;
+
+j. bila diperlukan untuk tujuan yang jelas untuk kepentingan Pengguna dan Persetujuan Pengguna tidak dapat diperoleh tepat waktu; atau
+
+k. yang mungkin diperlukan atau diizinkan oleh hukum.
+
+NOS berhak menggunakan, menyimpan, memanfaatkan, dan mengungkapkan data pribadi berdasarkan Persetujuan Pengguna yang telah Pengguna berikan pada saat perolehan data pribadi untuk:
+
+a. menyediakan Layanan dan/atau Penawaran Pihak Ketiga, misalnya: (i) untuk keperluan yang terkait dengan pembayaran, penagihan, aktivasi, penyediaan, pemeliharaan, dukungan, pemecahan masalah, penyelesaian sengketa, penonaktifan, penggantian, peningkatan atau pembaharuan Layanan;
+(ii) untuk lebih memahami, menganalisis, dan memprediksi preferensi dan minat Pengguna, dan menggabungkan informasi tersebut dengan informasi lain untuk menyesuaikan pengalaman Pengguna;
+(iii) untuk memastikan Layanan berfungsi secara teknis sebagaimana dimaksud dan untuk membantu mengidentifikasi dan memecahkan masalah;
+(iv) untuk memfasilitasi akses Pengguna dan penggunaan Layanan dan / atau Penawaran Pihak Ketiga;
+(v) untuk mengirim Penawaran berlangganan, pesan dan posting dalam Layanan atas nama administrator Saluran atau Akun Resmi;
+(vi) untuk menggabungkan informasi tersebut dengan informasi yang diperoleh dari sumber lain (termasuk Penawaran Pihak Ketiga) sehubungan dengan penyediaan Layanan; (vii) untuk memenuhi atau memberlakukan Pemberitahuan yang berlaku untuk Layanan; (viii) untuk mengelola atau menanggapi pertanyaan Pengguna;
+b. mengembangkan Layanan baru dan meningkatkan Layanan yang ada dan memberikan Pengguna informasi tentang konten pihak ketiga atau produk terkait, layanan dan perangkat lunak termasuk untuk berkomunikasi dengan Pengguna tentang berbagai cara yang mereka gunakan, misalnya untuk menyediakan atau mengirim kepada Pengguna:
+(i) peningkatan atau pembaruan, atau pemberitahuan tentang peningkatan atau pembaruan, dari Layanan atau konten pihak ketiga atau produk, layanan dan perangkat lunak terkait; (ii) pemberitahuan promosi, kontes, penawaran, dan acara mendatang;
+(iii) informasi pribadi, survei, materi pemasaran, iklan atau konten yang disesuaikan;
+
+c. mengumpulkan, menggunakan dan mengungkapkan untuk kegiatan promosi dan periklanan yang meliputi namun tidak terbatas pada pengidentifikasi iklan, termasuk yang disediakan oleh platform perangkat lunak lain, atau pengenal serupa, untuk memfasilitasi NOS dalam melakukan analitik atau penyediaan konten promosi atau informasi lain yang mungkin relevan bagi Pengguna;
+
+d. mengelola dan mengembangkan bisnis dan operasional NOS, misalnya:
+(i) untuk mendeteksi, memantau, menyelidiki, mengurangi atau mencegah penipuan dan masalah teknis atau keamanan atau untuk melindungi properti dari NOS;
+(ii) untuk memungkinkan kelangsungan bisnis dan operasi pemulihan bencana;
+(iii) untuk mendapatkan layanan hukum, untuk mencari nasihat hukum dan / atau untuk menegakkan hak hukum NOS atau hak hukum dari anggota lain dari NOS;
+(iv) untuk keperluan statistik;
+
+e. memenuhi persyaratan hukum dan peraturan dan untuk menanggapi situasi darurat, misalnya: (i) untuk menanggapi perintah pengadilan, somasi atau permintaan yang sah atau penegakan hukum lainnya atau proses hukum;
+(ii) untuk memberikan bantuan darurat dalam situasi yang dapat mengancam kehidupan atau keselamatan fisik Anda atau orang lain; atau
+
+f. Kepentingan internal NOS untuk pengembangan bisnis, produk, mutu, dan pelayanan termasuk kegiatan promosi, studi, riset, dan kerja sama NOS dengan pihak ketiga lainnya;
+
+g. Kepentingan NOS, afiliasi, perusahaan grup, dan anak perusahaan, untuk pengembangan bisnis, produk, mutu, dan pelayanan termasuk kegiatan promosi, studi, riset, dan kerja sama NOS dengan pihak ketiga lainnya;
+
+h. Kepentingan NOS untuk memenuhi tujuan Transaksi atas nama NOS, antara lain dalam hal penjualan semua atau sebagian aset NOS termasuk setiap pembelian, penjualan, penyewaan, merger atau amalgamasi atau akuisisi, pembuangan atau pembiayaan NOS, afiliasi, perusahaan grup, dan anak perusahaan;
+
+i. Tujuan lain yang disampaikan dari waktu ke waktu oleh NOS kepada Pengguna, serta diizinkan atau diwajibkan oleh hukum dan peraturan yang berlaku.
+
+NOS berhak menyimpan data dan informasi pribadi Pengguna untuk memenuhi tujuan Layanan, tujuan Kebijakan Privasi ini, tujuan peraturan perundang-undangan dan hukum yang berlaku, termasuk memproses, mentransfer, dan/atau menyimpan data dan informasi para Pengguna, baik di dalam wilayah Republik Indonesia maupun di luar wilayah Republik Indonesia, dengan memperhatikan Regulasi, termasuk peraturan perundang-undangan dan kebijakan Privasi di negara mana data dan informasi para Pengguna diproses, ditransfer, dan/atau disimpan.
+
+NOS, afiliasi, perusahaan grup, dan anak perusahaan, termasuk Perwakilan, dan pihak ketiga yang bekerja sama dengan, dalam menyediakan Layanan berhak memanfaatkan dan mengolah data dan informasi pribadi Pengguna untuk memenuhi tujuan Layanan, tujuan Kebijakan Privasi ini, tujuan peraturan perundang-undangan dan hukum yang berlaku. Pemanfaatan dan pengolahan data tersebut dicakup oleh perjanjian dan memuat klausul kerahasiaan yang mengikat para pihak. Dalam hal ini, termasuk Perwakilan NOS.
+
+NOS berhak memanfaatkan dan mengolah data dan informasi para Pengguna untuk memenuhi tujuan Transaksi atas nama NOS, antara lain dalam hal penjualan semua atau sebagian aset NOS termasuk setiap pembelian, penjualan, penyewaan, merger atau amalgamasi atau akuisisi, pembuangan atau pembiayaan NOS, afiliasi, perusahaan grup, dan anak perusahaan.
+
+NOS dalam pemanfaatan dan pengolahan data, termasuk transmisi data, sesuai dengan tujuan Kebijakan Privasi ini akan menerapkan keamanan sewajarnya, sesuai dengan peraturan perundang-undangan dan hukum yang berlaku, termasuk memberikan enkripsi pada pemanfaatan dan pengolahan data tersebut.
+
+NOS dapat memindahkan Informasi Data Pribadi Pengguna ke platform afiliasi atau penyedia layanan NOS atau kepada penerima pihak ketiga. Oleh karena itu, dengan menyetujui Kebijakan Privasi ini, Pengguna juga memberikan persetujuan untuk memindahkan Informasi Data Pribadi ke platform afiliasi atau penyedia layanan NOS atau kepada penerima data pihak ketiga untuk pengembangan layanan baik yg bersifat teknis, komersial dan lain lain. Di mana pun Informasi Data Pribadi Pengguna dipindahkan, disimpan atau diproses oleh NOS atau platform afiliasi atau pihak ketiga, atau pihak lain penyedia layanan NOS, NOS akan mengambil langkah yang wajar untuk melindungi privasi Informasi Data Pribadi Pengguna.
+
+PENGHAPUSAN DATA
+
+Atas beragam informasi promo terbaru dan penawaran eksklusif, Pengguna dapat:
+a. berhenti berlangganan (unsubscribe) jika tidak ingin menerima informasi tersebut melalui klik tautan “berhenti berlangganan” melalui e-mail yang dikirimkan NOS kepada Pengguna; atau
+b. melakukan pengaturan notifikasi “Promo” pada aplikasi NOS.
+
+Pengguna dapat menarik Persetujuan Pengguna berikan terkait dengan penggunaan data dan informasi pribadi Pengguna, termasuk berhenti menggunakan, mengakses Layanan, dan/atau menutup akun dengan memperhatikan ketentuan peraturan Perungdang-Undangan yang berlaku (termasuk ketentuan retensi yang diwajibkan oleh perundang-undangan yang berlaku). Pengguna dengan ini menyatakan bahwa Pengguna memahami konsekuensi dari penarikan Persetujuan Pengguna, termasuk namun tidak terbatas pada tidak lagi dapat menikmati Layanan.
+
+NOS menyetujui penghapusan data yang diajukan oleh Pengguna jika telah memenuhi ketentuan pada angka 3 di atas dan telah memenuhi hak dan kewajibannya di NOS, dalam waktu yang wajar.
+
+NOS atas permintaan Pengguna dapat mengumpulkan data dan informasi Pengguna dibuat tidak dikenali.
+
+PEMBATASAN TANGGUNG JAWAB NOS
+
+Pengguna bertanggung jawab atas keamanan dan mitigasi pelanggaran atas akun NOS Pengguna sendiri, seperti menerapkan pengamanan yang tepat, membatasi akses, membuat kata sandi yang kuat, menjaga kata sandi, menjaga one time password (“OTP”).
+NOS tidak bertanggung jawab atas pertukaran dan pemberian data dan informasi pribadi Pengguna yang dilakukan sendiri oleh Pengguna, termasuk yang dilakukan antar-Pengguna. Termasuk dalam ketentuan ini adalah setiap dan segala kesalahan Pengguna yang mengakibatkan kebocoran data Pengguna.
+NOS bertanggung jawab atas Sistem NOS, termasuk perlindungan serta pengamanan rahasia data pribadi, termasuk memberitahukan Pengguna dalam hal terjadi kegagalan dalam perlindungan data pribadi melalui sekurang-kurangnya melalui e-mail Pengguna yang terdaftar pada Sistem NOS dan melaporkan kepada aparat penegak hukum atau Instansi Pengawas dan Pengatur Sektor terkait. Dalam hal terjadi kebocoran data, pihak yang bertanggung jawab untuk menginformasikan kepada Pengguna terkait kegagalan dalam perlindungan data tersebut adalah pihak atau institusi dimana data tersebut diproses berdasarkan Kebijakan Privasi ini.
+NOS tidak bertanggung jawab atas keaslian, keautentikan, kebenaran, keakuratan, kelengkapan data pribadi yang dimasukkan oleh Pengguna ke dalam Sistem NOS. Dengan memberikan Persetujuan Pengguna, Pengguna melepaskan hak atas klaim, kerugian, tuntutan, dan gugatan yang mungkin terjadi atas perolehan, penyimpanan,penggunaan, pemanfaatan, dan/atau penggungkapan data, termasuk data pribadi, dalam Sistem NOS. Dalam hal Pengguna adalah anak belum dewasa, NOS tidak bertanggung jawab atas input data pribadi Pengguna anak dan menganjurkan agar orang tua/wali anak memantau penggunaan internet anak, sehingga pemberian data pribadi Pengguna anak diberikan dan/atau dalam pengawasan orang tua/wali sebagai pihak yang berwenang.
+NOS tidak bertanggung jawab atas kebocoran data yang terjadi diakibatkan dan/atau terjadi selama karena Keadaan Memaksa. Keadaan Memaksa meliputi antara lain (i) pemogokan, penutupan perusahaan, dan aksi industrial lain; (ii) huru-hara, kerusuhan, invasi, serangan atau ancaman teroris, perang (baik yang dinyatakan atau tidak) atau ancaman persiapan perang; (iii) kebakaran, ledakan, badai, banjir, gempa bumi, epidemi atau bencana alam lain; (iv) tidak tersedianya atau terganggunya jaringan telekomunikasi, informatika dan/atau listrik; (v) terdapatnya kegagalan sistem yang diakibatkan pihak ketiga yang terjadi di luar wewenang NOS; (vi) tidak berfungsinya sistem dan/atau jaringan perbankan, (vii) tindakan, putusan, undang-undang, peraturan atau pembatasan yang diterbitkan pemerintah. Dalam hal terjadi Keadaan Memaksa, NOS memberitahukan Pengguna paling lambat 14 (empat belas) Hari Kalendar setelah terjadinya Keadaan Kahar tersebut dan berusaha dengan kemampuan komersial terbaiknya memenuhi kewajiban NOS berdasarkan Kebijakan Privasi ini.
+
+COOKIES
+
+Cookies adalah tempat penyimpanan data yang kecil terdapat pada komputer atau perangkat lain seperti ponsel pintar atau tablet, pada saat Pengguna menelusuri dan/atau mengunjungi Situs NOS.
+Komputer atau perangkat lain Pengguna akan secara otomatis menerima Cookies pada saat Pengguna menelusuri dan/atau mengunjungi Situs NOS serta saat Pengguna menggunakan layanan NOS (“Penggunaan Cookies”). Namun, Pengguna dapat menentukan pilihan untuk melakukan modifikasi atau memilih untuk menolak Penggunaan Cookies melalui preferensi pengaturan web browser Pengguna.
+NOS menggunakan Google Analytics (“Fitur”), dimana data yang diperoleh dari penggunaan Fitur tersebut meliputi, IP address Pengguna, jenis perangkat Pengguna, dan lain – lain (“Data”). Data tersebut digunakan oleh NOS untuk pengembangan Situs dan Konten NOS serta pengiklanan. Pengguna dapat memilih untuk tidak terakses oleh Fitur dilakukan dengan cara mengunduh Google Analytics Opt-Out Add-on pada web browser Pengguna. NOS dapat memberikan data dan informasi Pengguna yang berasal dari dari Penggunaan Cookies kepada pihak ketiga, seperti data lokasi, pengidentifikasi iklan, atau alamat email yang digunakan untuk segmentasi periklanan, termasuk namun tidak terbatas pada untuk kebutuhan pemasaran dan periklanan, dimana data dan informasi tersebut tidak dapat diidentifikasi secara pribadi.
+Pengguna dapat melakukan kontrol terhadap Penggunaan Cookies melalui preferensi pengaturan web browser Pengguna yaitu dengan modifikasi atau memilih untuk menolak Penggunaan Cookies. Namun dengan melakukan pengaturan tersebut, kinerja pelayanan pada saat akses ke Situs NOS dapat terpengaruh, seperti fungsi dan halaman tertentu pada Situs NOS tidak dapat bekerja optimal untuk layanan kepada Pengguna.
